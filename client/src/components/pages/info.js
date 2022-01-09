@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const info = () => {
+const Info = () => {
   return (
     <div>
       <h1>Information</h1>
@@ -10,4 +10,4 @@ const info = () => {
   );
 };
 
-export default info;
+export default Info;
